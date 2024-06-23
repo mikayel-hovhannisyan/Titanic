@@ -1,4 +1,0 @@
-
-the one on vectorization and calculational improvement 1.2.~1 2
-
-https://www.coursera.org/learn/advanced-learning-algorithms/lecture/pjuBJ/error-metrics-for-skewed-datasets
